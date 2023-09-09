@@ -1,0 +1,7 @@
+,Unnamed: 0,MAE Test,MAE Val,RMSE Test,RMSE Val
+0,Collaborative Filtering: Categories,0.5334049,0.534835998,0.73976513,0.737967271
+1,Collaborative Filtering: Restaurants,0.77887,0.7853,0.988822,1.00143
+2,Lasso Model,0.689301673177854,-0.6837570428756179,0.8840059903121483,-0.8806539608021892
+3,Avg User Baseline,0.781,0.788,0.991,1.004
+4,Avg Business Baseline,0.787,0.789,1.023,1.025
+5,Content Based: Matrix Factorization,1.03444,1.02893,1.135603,1.14149
